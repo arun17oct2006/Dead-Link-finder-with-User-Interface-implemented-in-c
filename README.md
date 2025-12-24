@@ -11,7 +11,7 @@ This project is a UI-based Dead Link Finder developed using the C programming la
 - Dead/broken link detection
 - ## How it works
 - User enters URL
-   The page is fetched using libcurl.
-  Uses dfs to crawl into links in the given url
-  checks for deadlinks if yes it notifies to user
+- The page is fetched using libcurl.
+- Uses dfs to crawl into links in the given url
+- checks for deadlinks if yes it notifies to user
   
